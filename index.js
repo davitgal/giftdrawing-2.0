@@ -16,7 +16,7 @@ button.addEventListener('click', () => {
     // Запрос к серверу
     try {
       const response = await fetch(
-        'https://script.google.com/macros/s/AKfycbwqZIhqbqCZux8IYQyXQqXgnqkSsFVqr9dPr3-qasP32soiweNnSNghOKufNuMZPlNo/exec'
+        'https://script.google.com/macros/s/AKfycbyMRnFhwAVclqONM3ENUI3GVgw3NByWBV-5dEM6Kx9bb6_ZfXP9UzzbGxlsfBsjAXo2/exec'
       );
 
       if (!response.ok) {
