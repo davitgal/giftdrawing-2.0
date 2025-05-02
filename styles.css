@@ -22,7 +22,7 @@ html {
 .left {
   width: 100%;
   height: calc(50% - 30px); /* уменьшили высоту на30px */
-  background: url('img/Capitan_KID.png') no-repeat center center;
+  background: url('img/shopping_weekend.png') no-repeat center center;
   background-size: cover;
 }
 @media (min-width: 768px) {
